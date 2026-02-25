@@ -1,0 +1,24 @@
+[
+  { "id": 1, "year": 1996, "temperature": 16.56, "humidity": 53.54, "pressure": 1015.43, "heatIndex": 27.20 },
+  { "id": 2, "year": 1997, "temperature": 24.47, "humidity": 68.19, "pressure": 1015.27, "heatIndex": 36.61 },
+  { "id": 3, "year": 1998, "temperature": 24.87, "humidity": 69.67, "pressure": 1020.45, "heatIndex": 36.45 },
+  { "id": 4, "year": 1999, "temperature": 27.33, "humidity": 49.85, "pressure": 1015.20, "heatIndex": 34.40 },
+  { "id": 5, "year": 2000, "temperature": 23.87, "humidity": 62.61, "pressure": 1016.25, "heatIndex": 34.83 },
+  { "id": 6, "year": 2001, "temperature": 23.49, "humidity": 63.40, "pressure": 1016.74, "heatIndex": 35.08 },
+  { "id": 7, "year": 2002, "temperature": 23.50, "humidity": 63.63, "pressure": 1016.52, "heatIndex": 34.98 },
+  { "id": 8, "year": 2003, "temperature": 23.48, "humidity": 62.44, "pressure": 1016.88, "heatIndex": 34.83 },
+  { "id": 9, "year": 2004, "temperature": 23.48, "humidity": 62.06, "pressure": 1016.46, "heatIndex": 34.74 },
+  { "id": 10, "year": 2005, "temperature": 23.52, "humidity": 61.05, "pressure": 1016.51, "heatIndex": 34.70 },
+  { "id": 11, "year": 2006, "temperature": 23.27, "humidity": 62.20, "pressure": 1016.30, "heatIndex": 34.28 },
+  { "id": 12, "year": 2007, "temperature": 23.23, "humidity": 61.53, "pressure": 1016.16, "heatIndex": 34.15 },
+  { "id": 13, "year": 2008, "temperature": 23.13, "humidity": 60.48, "pressure": 1016.37, "heatIndex": 33.93 },
+  { "id": 14, "year": 2009, "temperature": 22.92, "humidity": 60.22, "pressure": 1016.44, "heatIndex": 33.77 },
+  { "id": 15, "year": 2010, "temperature": 23.36, "humidity": 57.71, "pressure": 1016.37, "heatIndex": 33.44 },
+  { "id": 16, "year": 2011, "temperature": 23.08, "humidity": 57.21, "pressure": 1016.33, "heatIndex": 33.14 },
+  { "id": 17, "year": 2012, "temperature": 23.18, "humidity": 55.41, "pressure": 1016.28, "heatIndex": 32.87 },
+  { "id": 18, "year": 2013, "temperature": 23.40, "humidity": 55.28, "pressure": 1016.32, "heatIndex": 32.93 },
+  { "id": 19, "year": 2014, "temperature": 23.66, "humidity": 54.60, "pressure": 1016.28, "heatIndex": 33.18 },
+  { "id": 20, "year": 2015, "temperature": 23.42, "humidity": 52.70, "pressure": 1016.19, "heatIndex": 32.82 }
+  
+]
+
